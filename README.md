@@ -141,7 +141,7 @@ test.csv
 Откройте ноутбук:
 
 ```text
-ML_Layers_Implementation.ipynb
+numpy_neural_network.ipynb
 ```
 
 и последовательно выполните ячейки.
