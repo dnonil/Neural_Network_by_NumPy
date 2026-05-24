@@ -7,28 +7,28 @@
 
 В ноутбуке реализованы основные строительные блоки нейронных сетей:
 
-- базовый класс `Layer`;
+- базовый класс `Layer`
 - функции активации:
-  - `ReLU`;
-  - `Sigmoid`;
-  - `Tanh`;
+  - `ReLU`
+  - `Sigmoid`
+  - `Tanh`
 - полносвязный слой:
-  - `Linear`;
+  - `Linear`
 - контейнер модели:
-  - `Sequential`;
+  - `Sequential`
 - регуляризация и нормализация:
-  - `Dropout`;
-  - `BatchNorm`;
+  - `Dropout`
+  - `BatchNorm`
 - оптимизатор:
-  - `Adam`;
+  - `Adam`
 - функции потерь:
-  - `CrossEntropyLoss`;
-  - `MSELoss`;
+  - `CrossEntropyLoss`
+  - `MSELoss`
 - вспомогательные функции:
-  - `softmax`;
-  - `one_hot_encode`;
-- обучение модели на синтетических данных;
-- обучение модели на датасете Kaggle Digit Recognizer;
+  - `softmax`
+  - `one_hot_encode`
+- обучение модели на синтетических данных
+- обучение модели на датасете Kaggle Digit Recognizer
 
 ## Архитектура проекта
 
